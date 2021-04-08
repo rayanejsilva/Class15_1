@@ -6,7 +6,7 @@ This is our first group project for [HackYourFutureBelgium](https://hackyourfutu
 
 Our group members are:
 
-- [Rayane]
+- [Rayane](https://github.com/rayanejsilva)
 - [Ekaterina](https://github.com/katsmamina)
 - [Ali](https://github.com/AliAbouteir)
 - [Widad](https://github.com/wadiawadia)
